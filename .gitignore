@@ -14,6 +14,7 @@ logs/
 elevation_cache/
 cgiar_cache/
 node_modules/
+my_apikey.json
 
 # jqwik
 .jqwik-database
